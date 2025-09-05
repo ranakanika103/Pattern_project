@@ -50,17 +50,17 @@ Pattern-Project/ <br>
 
 Here are some outputs of the patterns generated:
 
-![Initial empty Tic-Tac-Toe board](ScreenShots/img5.png) | ![choose a number](ScreenShots/img6.png)
+![Pattern1](Screenshots/img5.png) | ![Pattern2](Screenshots/img6.png)
 
-![choose a number](ScreenShots/img7.png) | ![choose a number](ScreenShots/img8.png)
+![Pattern3](Screenshots/img7.png) | ![Pattern4](Screenshots/img8.png)
 
-![Game quit by player](ScreenShots/img9.png) | ![choose a number](ScreenShots/img10.png)
+![Pattern5](Screenshots/img9.png) | ![Pattern6](Screenshots/img10.png)
 
-![Three round game](ScreenShots/img11.png) | ![choose a number](ScreenShots/img12.png)
+![Pattern7](Screenshots/img11.png) | ![Pattern8](Screenshots/img12.png)
 
-![choose a number](ScreenShots/img13.png) | ![choose a number](ScreenShots/img14.png)
+![Pattern9](Screenshots/img13.png) | ![Pattern10](Screenshots/img14.png)
 
-![choose a number](ScreenShots/img15.png) | ![choose a number](ScreenShots/img16.png)
+![Pattern11](Screenshots/img15.png) | ![Pattern12](Screenshots/img16.png)
 
 
 
