@@ -50,23 +50,17 @@ Pattern-Project/ <br>
 
 Here are some outputs of the patterns generated:
 
-![Pattern1](Screenshots/img5.png)  ![Pattern2](Screenshots/img7.png)
+![Pattern1](Screenshots/img5.png)  ![Pattern2](Screenshots/img7.png) ![Pattern3](Screenshots/img6.png)  
+                                                                     ![Pattern4](Screenshots/img9.png)
+                                                                     
+
+![Pattern5](Screenshots/img8.png)  ![Pattern6](Screenshots/img10.png) ![Pattern7](Screenshots/img11.png) 
 
 
-![Pattern3](Screenshots/img6.png)  ![Pattern4](Screenshots/img9.png)
-
-
-![Pattern5](Screenshots/img8.png)  ![Pattern6](Screenshots/img10.png)
-
-
-![Pattern7](Screenshots/img11.png)  ![Pattern8](Screenshots/img12.png)
+![Pattern8](Screenshots/img12.png) ![Pattern12](Screenshots/img16.png) ![Pattern11](Screenshots/img15.png)  
 
 
 ![Pattern9](Screenshots/img13.png)  ![Pattern10](Screenshots/img14.png)
-
-
-![Pattern11](Screenshots/img15.png)  ![Pattern12](Screenshots/img16.png)
-
 
 
 ---
